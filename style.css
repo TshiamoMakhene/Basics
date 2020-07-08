@@ -1,0 +1,19 @@
+#container {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(232, 248, 172);
+}
+
+h3 {
+    padding: 3px 3px 3px 3px;
+}
+
+ul {
+    padding: 15px 10px 10px 10px;
+}
+
+#footer {
+    font-size: medium;
+}
